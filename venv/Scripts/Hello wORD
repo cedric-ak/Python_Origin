@@ -1,0 +1,11 @@
+from math import *
+
+def multipliaction(variable):
+    sum = x+variable
+    return  sum
+x = 4
+Variable = input('enter variale to sum =')
+print(multipliaction(int(Variable)))
+
+
+
